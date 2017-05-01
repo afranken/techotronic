@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2017-05-01 20:48:00 Z
+date: 2017-05-01 22:48:00 +02:00
 ---
 
 Generic landing page text
