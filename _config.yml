@@ -1,6 +1,6 @@
 ---
 title: Techotronic
-timezone: UTC
+timezone: Europe/Berlin
 collections:
   posts:
     title: Posts
@@ -8,4 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-minimal
+theme: minima
